@@ -1,0 +1,639 @@
+[25-Jun-2020 17:28:15 Asia/Jakarta] PHP Warning:  require_once(../config.php): failed to open stream: No such file or directory in /home/satukode/public_html/backend/header.php on line 3
+[25-Jun-2020 17:28:15 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '../config.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/satukode/public_html/backend/header.php on line 3
+[25-Jun-2020 10:28:42 UTC] PHP Warning:  require_once(check-session.php): failed to open stream: No such file or directory in /home/satukode/public_html/backend/header.php on line 4
+[25-Jun-2020 10:28:42 UTC] PHP Fatal error:  require_once(): Failed opening required 'check-session.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/satukode/public_html/backend/header.php on line 4
+[25-Jun-2020 10:28:43 UTC] PHP Warning:  require_once(check-session.php): failed to open stream: No such file or directory in /home/satukode/public_html/backend/header.php on line 4
+[25-Jun-2020 10:28:43 UTC] PHP Fatal error:  require_once(): Failed opening required 'check-session.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/satukode/public_html/backend/header.php on line 4
+[25-Jun-2020 10:28:47 UTC] PHP Warning:  require_once(check-session.php): failed to open stream: No such file or directory in /home/satukode/public_html/backend/header.php on line 4
+[25-Jun-2020 10:28:47 UTC] PHP Fatal error:  require_once(): Failed opening required 'check-session.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/satukode/public_html/backend/header.php on line 4
+[25-Jun-2020 10:29:06 UTC] PHP Warning:  require_once(components.php): failed to open stream: No such file or directory in /home/satukode/public_html/backend/header.php on line 5
+[25-Jun-2020 10:29:06 UTC] PHP Fatal error:  require_once(): Failed opening required 'components.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/satukode/public_html/backend/header.php on line 5
+[25-Jun-2020 10:29:34 UTC] PHP Warning:  require_once(check-session.php): failed to open stream: No such file or directory in /home/satukode/public_html/backend/header.php on line 5
+[25-Jun-2020 10:29:34 UTC] PHP Fatal error:  require_once(): Failed opening required 'check-session.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/satukode/public_html/backend/header.php on line 5
+[25-Jun-2020 10:29:51 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/dashboard.php on line 113
+[25-Jun-2020 10:29:51 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/dashboard.php on line 146
+[25-Jun-2020 10:29:51 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/dashboard.php on line 167
+[25-Jun-2020 18:41:59 Asia/Jakarta] PHP Warning:  require_once(config.php): failed to open stream: No such file or directory in /home/satukode/public_html/backend/logout.php on line 3
+[25-Jun-2020 18:41:59 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required 'config.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/satukode/public_html/backend/logout.php on line 3
+[25-Jun-2020 11:42:49 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/dashboard.php on line 113
+[25-Jun-2020 11:42:49 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/dashboard.php on line 146
+[25-Jun-2020 11:42:49 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/dashboard.php on line 167
+[26-Jun-2020 02:41:13 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/dashboard.php on line 113
+[26-Jun-2020 02:41:13 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/dashboard.php on line 146
+[26-Jun-2020 02:41:13 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/dashboard.php on line 167
+[26-Jun-2020 07:26:07 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/dashboard.php on line 113
+[26-Jun-2020 07:26:07 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/dashboard.php on line 146
+[26-Jun-2020 07:26:07 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/dashboard.php on line 167
+[26-Jun-2020 07:28:36 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/dashboard.php on line 113
+[26-Jun-2020 07:28:36 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/dashboard.php on line 146
+[26-Jun-2020 07:28:36 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/dashboard.php on line 167
+[26-Jun-2020 07:29:11 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/dashboard.php on line 113
+[26-Jun-2020 07:29:11 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/dashboard.php on line 146
+[26-Jun-2020 07:29:11 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/dashboard.php on line 167
+[26-Jun-2020 07:30:45 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/dashboard.php on line 113
+[26-Jun-2020 07:30:45 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/dashboard.php on line 146
+[26-Jun-2020 07:30:45 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/dashboard.php on line 167
+[26-Jun-2020 07:32:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/order.php on line 32
+[26-Jun-2020 07:32:25 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/order.php on line 32
+[26-Jun-2020 07:32:46 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/order.php on line 33
+[26-Jun-2020 07:54:21 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/order-list.php on line 37
+[26-Jun-2020 07:54:31 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/order-list.php on line 38
+[26-Jun-2020 07:55:02 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/order-list.php on line 38
+[26-Jun-2020 07:55:03 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/order-list.php on line 38
+[01-Jul-2020 06:08:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/satukode/public_html/backend/header.php on line 91
+[02-Jul-2020 03:05:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/satukode/public_html/backend/header.php on line 91
+[02-Jul-2020 05:05:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/satukode/public_html/backend/header.php on line 91
+[02-Jul-2020 06:38:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/satukode/public_html/backend/header.php on line 91
+[02-Jul-2020 11:16:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/satukode/public_html/backend/header.php on line 91
+[03-Jul-2020 02:41:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/satukode/public_html/backend/header.php on line 91
+[03-Jul-2020 04:00:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/satukode/public_html/backend/header.php on line 91
+[03-Jul-2020 06:09:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/satukode/public_html/backend/header.php on line 91
+[03-Jul-2020 06:20:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/satukode/public_html/backend/header.php on line 91
+[03-Jul-2020 06:29:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/satukode/public_html/backend/header.php on line 91
+[03-Jul-2020 07:31:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/satukode/public_html/backend/header.php on line 91
+[03-Jul-2020 08:15:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/satukode/public_html/backend/header.php on line 91
+[03-Jul-2020 08:20:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/satukode/public_html/backend/header.php on line 91
+[03-Jul-2020 08:41:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/satukode/public_html/backend/header.php on line 91
+[03-Jul-2020 09:37:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/satukode/public_html/backend/header.php on line 91
+[03-Jul-2020 11:04:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/satukode/public_html/backend/header.php on line 91
+[04-Jul-2020 02:16:13 UTC] PHP Notice:  Undefined index: user_id in /home/satukode/public_html/backend/order-confirm.php on line 32
+[04-Jul-2020 02:16:13 UTC] PHP Notice:  Undefined index: user_id in /home/satukode/public_html/backend/order-confirm.php on line 35
+[04-Jul-2020 07:18:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/satukode/public_html/backend/header.php on line 91
+[04-Jul-2020 10:47:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/satukode/public_html/backend/header.php on line 91
+[05-Jul-2020 08:10:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/satukode/public_html/backend/header.php on line 91
+[08-Jul-2020 02:18:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/satukode/public_html/backend/header.php on line 91
+[08-Jul-2020 14:10:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/satukode/public_html/backend/header.php on line 91
+[09-Jul-2020 07:00:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/satukode/public_html/backend/header.php on line 91
+[09-Jul-2020 14:35:02 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/satukode/public_html/backend/order.php on line 174
+[09-Jul-2020 14:35:56 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/satukode/public_html/backend/order.php on line 174
+[09-Jul-2020 07:41:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/satukode/public_html/backend/header.php on line 91
+[09-Jul-2020 07:41:49 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/auth.php on line 56
+[09-Jul-2020 14:52:27 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/satukode/public_html/backend/order.php on line 134
+[09-Jul-2020 14:57:47 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/satukode/public_html/backend/order.php on line 170
+[09-Jul-2020 08:02:57 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/order.php on line 32
+[09-Jul-2020 08:02:58 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/order.php on line 32
+[09-Jul-2020 08:03:11 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/order.php on line 32
+[09-Jul-2020 08:03:12 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/order.php on line 32
+[09-Jul-2020 08:03:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/order.php on line 33
+[09-Jul-2020 09:09:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/satukode/public_html/backend/header.php on line 91
+[09-Jul-2020 09:10:03 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/auth.php on line 56
+[09-Jul-2020 10:18:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/satukode/public_html/backend/header.php on line 91
+[09-Jul-2020 12:48:54 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/auth.php on line 56
+[10-Jul-2020 01:03:39 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/auth.php on line 56
+[10-Jul-2020 03:26:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/satukode/public_html/backend/header.php on line 91
+[10-Jul-2020 03:26:59 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/auth.php on line 56
+[10-Jul-2020 03:51:42 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/auth.php on line 56
+[10-Jul-2020 05:54:14 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/auth.php on line 56
+[10-Jul-2020 06:13:09 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/auth.php on line 56
+[10-Jul-2020 07:21:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/satukode/public_html/backend/header.php on line 91
+[10-Jul-2020 07:21:13 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/auth.php on line 56
+[10-Jul-2020 07:58:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/satukode/public_html/backend/header.php on line 91
+[10-Jul-2020 07:58:52 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/auth.php on line 56
+[10-Jul-2020 08:04:30 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/auth.php on line 56
+[10-Jul-2020 08:09:02 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/auth.php on line 56
+[10-Jul-2020 09:01:09 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/auth.php on line 56
+[10-Jul-2020 09:36:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/satukode/public_html/backend/header.php on line 91
+[10-Jul-2020 09:36:58 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/auth.php on line 56
+[10-Jul-2020 09:37:44 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/auth.php on line 56
+[10-Jul-2020 11:09:34 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/auth.php on line 56
+[10-Jul-2020 11:58:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/satukode/public_html/backend/header.php on line 91
+[10-Jul-2020 11:58:55 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/auth.php on line 56
+[10-Jul-2020 12:38:51 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/auth.php on line 56
+[11-Jul-2020 04:20:19 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/auth.php on line 56
+[11-Jul-2020 04:26:55 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/auth.php on line 56
+[11-Jul-2020 05:09:17 UTC] PHP Notice:  Undefined index: user_id in /home/satukode/public_html/backend/order-confirm.php on line 25
+[11-Jul-2020 05:09:17 UTC] PHP Notice:  Undefined index: user_id in /home/satukode/public_html/backend/order-confirm.php on line 28
+[11-Jul-2020 05:09:24 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/auth.php on line 56
+[11-Jul-2020 08:47:48 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/auth.php on line 56
+[13-Jul-2020 01:21:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/satukode/public_html/backend/header.php on line 91
+[13-Jul-2020 01:21:25 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/auth.php on line 56
+[13-Jul-2020 01:24:40 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/auth.php on line 56
+[13-Jul-2020 04:30:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/satukode/public_html/backend/header.php on line 91
+[15-Jul-2020 03:31:10 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/auth.php on line 56
+[15-Jul-2020 04:42:35 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/auth.php on line 56
+[15-Jul-2020 09:44:52 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/auth.php on line 56
+[15-Jul-2020 12:46:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/satukode/public_html/backend/header.php on line 91
+[16-Jul-2020 14:52:59 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/auth.php on line 56
+[17-Jul-2020 03:23:25 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/auth.php on line 56
+[17-Jul-2020 03:25:55 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/auth.php on line 56
+[17-Jul-2020 03:32:15 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/auth.php on line 56
+[17-Jul-2020 05:53:34 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/auth.php on line 56
+[17-Jul-2020 05:58:46 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/auth.php on line 56
+[17-Jul-2020 07:31:19 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/auth.php on line 56
+[17-Jul-2020 09:45:09 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/auth.php on line 56
+[17-Jul-2020 10:50:03 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/auth.php on line 56
+[17-Jul-2020 11:59:38 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/auth.php on line 56
+[18-Jul-2020 09:29:45 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/auth.php on line 56
+[19-Jul-2020 05:23:16 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/auth.php on line 56
+[19-Jul-2020 13:05:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/satukode/public_html/backend/header.php on line 91
+[19-Jul-2020 13:05:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/satukode/public_html/backend/header.php on line 91
+[21-Jul-2020 10:29:52 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/auth.php on line 56
+[22-Jul-2020 13:59:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/satukode/public_html/backend/header.php on line 91
+[22-Jul-2020 13:59:41 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/auth.php on line 56
+[22-Jul-2020 14:45:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/satukode/public_html/backend/header.php on line 91
+[22-Jul-2020 14:45:35 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/auth.php on line 56
+[24-Jul-2020 09:43:02 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/satukode/public_html/backend/header.php on line 91
+[24-Jul-2020 09:43:07 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/auth.php on line 56
+[24-Jul-2020 09:53:45 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/user.php on line 116
+[24-Jul-2020 09:53:45 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/user.php on line 144
+[24-Jul-2020 09:53:45 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/user.php on line 269
+[24-Jul-2020 09:54:15 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/user.php on line 116
+[24-Jul-2020 09:54:15 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/user.php on line 144
+[24-Jul-2020 09:54:15 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/user.php on line 269
+[24-Jul-2020 09:54:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/user.php on line 116
+[24-Jul-2020 09:54:24 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/user.php on line 144
+[24-Jul-2020 09:54:24 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/user.php on line 269
+[24-Jul-2020 09:54:48 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/user.php on line 117
+[24-Jul-2020 09:54:48 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/user.php on line 145
+[24-Jul-2020 09:54:48 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/user.php on line 270
+[24-Jul-2020 09:58:58 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/auth.php on line 56
+[24-Jul-2020 10:01:05 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/auth.php on line 56
+[24-Jul-2020 10:01:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-warehouse.php on line 110
+[24-Jul-2020 10:01:19 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-warehouse.php on line 135
+[24-Jul-2020 10:01:19 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-warehouse.php on line 147
+[24-Jul-2020 10:01:19 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-warehouse.php on line 165
+[24-Jul-2020 10:01:19 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-warehouse.php on line 184
+[24-Jul-2020 10:10:27 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/auth.php on line 56
+[24-Jul-2020 10:20:28 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-warehouse.php on line 110
+[24-Jul-2020 10:20:28 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-warehouse.php on line 135
+[24-Jul-2020 10:20:28 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-warehouse.php on line 147
+[24-Jul-2020 10:20:28 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-warehouse.php on line 165
+[24-Jul-2020 10:20:28 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-warehouse.php on line 184
+[24-Jul-2020 10:20:43 UTC] PHP Warning:  require_once(../check-session.php): failed to open stream: No such file or directory in /home/satukode/public_html/backend/inventory-warehouse-add.php on line 5
+[24-Jul-2020 10:20:43 UTC] PHP Fatal error:  require_once(): Failed opening required '../check-session.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/satukode/public_html/backend/inventory-warehouse-add.php on line 5
+[24-Jul-2020 10:21:02 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-warehouse.php on line 110
+[24-Jul-2020 10:21:02 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-warehouse.php on line 135
+[24-Jul-2020 10:21:02 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-warehouse.php on line 147
+[24-Jul-2020 10:21:02 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-warehouse.php on line 165
+[24-Jul-2020 10:21:02 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-warehouse.php on line 184
+[24-Jul-2020 10:21:14 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-warehouse.php on line 110
+[24-Jul-2020 10:21:14 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-warehouse.php on line 135
+[24-Jul-2020 10:21:14 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-warehouse.php on line 147
+[24-Jul-2020 10:21:14 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-warehouse.php on line 165
+[24-Jul-2020 10:21:14 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-warehouse.php on line 184
+[24-Jul-2020 10:21:58 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-warehouse.php on line 165
+[24-Jul-2020 10:21:58 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-warehouse.php on line 184
+[24-Jul-2020 10:22:00 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-warehouse.php on line 165
+[24-Jul-2020 10:22:00 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-warehouse.php on line 184
+[24-Jul-2020 10:22:04 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-warehouse.php on line 165
+[24-Jul-2020 10:22:04 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-warehouse.php on line 184
+[24-Jul-2020 14:00:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/satukode/public_html/backend/header.php on line 91
+[24-Jul-2020 14:13:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/satukode/public_html/backend/header.php on line 91
+[24-Jul-2020 14:13:43 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/auth.php on line 56
+[24-Jul-2020 14:15:27 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/auth.php on line 56
+[24-Jul-2020 14:19:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-rack.php on line 110
+[24-Jul-2020 14:19:08 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-rack.php on line 135
+[24-Jul-2020 14:19:08 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-rack.php on line 147
+[24-Jul-2020 14:19:08 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-rack.php on line 165
+[24-Jul-2020 14:19:08 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-rack.php on line 184
+[24-Jul-2020 14:19:08 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-rack.php on line 225
+[24-Jul-2020 14:21:31 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-rack.php on line 110
+[24-Jul-2020 14:21:31 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-rack.php on line 135
+[24-Jul-2020 14:21:31 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-rack.php on line 147
+[24-Jul-2020 14:21:31 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-rack.php on line 165
+[24-Jul-2020 14:21:31 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-rack.php on line 184
+[24-Jul-2020 14:21:31 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-rack.php on line 225
+[24-Jul-2020 14:22:01 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-rack.php on line 110
+[24-Jul-2020 14:22:01 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-rack.php on line 135
+[24-Jul-2020 14:22:01 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-rack.php on line 147
+[24-Jul-2020 14:22:01 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-rack.php on line 165
+[24-Jul-2020 14:22:01 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-rack.php on line 184
+[24-Jul-2020 14:22:07 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-rack.php on line 110
+[24-Jul-2020 14:22:07 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-rack.php on line 135
+[24-Jul-2020 14:22:07 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-rack.php on line 147
+[24-Jul-2020 14:22:07 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-rack.php on line 165
+[24-Jul-2020 14:22:07 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-rack.php on line 184
+[24-Jul-2020 14:22:23 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-rack.php on line 110
+[24-Jul-2020 14:22:23 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-rack.php on line 135
+[24-Jul-2020 14:22:23 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-rack.php on line 147
+[24-Jul-2020 14:22:23 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-rack.php on line 165
+[24-Jul-2020 14:22:23 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-rack.php on line 184
+[24-Jul-2020 14:22:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-rack.php on line 110
+[24-Jul-2020 14:22:24 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-rack.php on line 135
+[24-Jul-2020 14:22:24 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-rack.php on line 147
+[24-Jul-2020 14:22:24 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-rack.php on line 165
+[24-Jul-2020 14:22:24 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-rack.php on line 184
+[24-Jul-2020 14:22:40 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-rack.php on line 110
+[24-Jul-2020 14:22:40 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-rack.php on line 135
+[24-Jul-2020 14:22:40 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-rack.php on line 147
+[24-Jul-2020 14:22:40 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-rack.php on line 165
+[24-Jul-2020 14:22:40 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-rack.php on line 184
+[24-Jul-2020 14:23:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-rack.php on line 110
+[24-Jul-2020 14:23:43 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-rack.php on line 135
+[24-Jul-2020 14:23:43 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-rack.php on line 147
+[24-Jul-2020 14:23:43 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-rack.php on line 165
+[24-Jul-2020 14:23:43 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-rack.php on line 184
+[24-Jul-2020 14:25:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-rack.php on line 110
+[24-Jul-2020 14:25:19 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-rack.php on line 135
+[24-Jul-2020 14:25:19 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-rack.php on line 147
+[24-Jul-2020 14:25:19 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-rack.php on line 165
+[24-Jul-2020 14:25:19 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-rack.php on line 184
+[24-Jul-2020 14:25:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-rack.php on line 110
+[24-Jul-2020 14:25:30 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-rack.php on line 135
+[24-Jul-2020 14:25:30 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-rack.php on line 147
+[24-Jul-2020 14:25:30 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-rack.php on line 165
+[24-Jul-2020 14:25:30 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-rack.php on line 184
+[24-Jul-2020 14:25:51 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-rack.php on line 110
+[24-Jul-2020 14:25:51 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-rack.php on line 135
+[24-Jul-2020 14:25:51 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-rack.php on line 147
+[24-Jul-2020 14:25:51 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-rack.php on line 165
+[24-Jul-2020 14:25:51 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-rack.php on line 184
+[24-Jul-2020 14:25:53 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-rack.php on line 110
+[24-Jul-2020 14:25:53 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-rack.php on line 135
+[24-Jul-2020 14:25:53 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-rack.php on line 147
+[24-Jul-2020 14:25:53 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-rack.php on line 165
+[24-Jul-2020 14:25:53 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-rack.php on line 184
+[24-Jul-2020 14:25:57 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-rack.php on line 165
+[24-Jul-2020 14:25:57 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-rack.php on line 184
+[24-Jul-2020 14:25:58 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-rack.php on line 165
+[24-Jul-2020 14:25:58 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-rack.php on line 184
+[25-Jul-2020 08:02:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/satukode/public_html/backend/header.php on line 91
+[25-Jul-2020 08:02:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 139
+[25-Jul-2020 08:02:43 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 168
+[25-Jul-2020 08:02:43 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 275
+[25-Jul-2020 08:02:43 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 293
+[25-Jul-2020 08:02:43 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 312
+[25-Jul-2020 08:02:47 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/auth.php on line 56
+[25-Jul-2020 08:02:51 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 139
+[25-Jul-2020 08:02:51 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 168
+[25-Jul-2020 08:02:51 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 275
+[25-Jul-2020 08:02:51 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 293
+[25-Jul-2020 08:02:51 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 312
+[25-Jul-2020 08:05:35 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 139
+[25-Jul-2020 08:05:35 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 168
+[25-Jul-2020 08:05:35 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 275
+[25-Jul-2020 08:05:35 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 293
+[25-Jul-2020 08:05:35 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 312
+[25-Jul-2020 08:05:39 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 139
+[25-Jul-2020 08:05:39 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 168
+[25-Jul-2020 08:05:39 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 275
+[25-Jul-2020 08:05:39 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 293
+[25-Jul-2020 08:05:39 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 312
+[25-Jul-2020 08:08:13 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 139
+[25-Jul-2020 08:08:13 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 168
+[25-Jul-2020 08:08:13 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 275
+[25-Jul-2020 08:08:13 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 293
+[25-Jul-2020 08:08:13 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 312
+[25-Jul-2020 08:08:13 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 139
+[25-Jul-2020 08:08:13 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 168
+[25-Jul-2020 08:08:13 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 275
+[25-Jul-2020 08:08:13 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 293
+[25-Jul-2020 08:08:13 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 312
+[25-Jul-2020 08:08:27 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 139
+[25-Jul-2020 08:08:27 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 168
+[25-Jul-2020 08:08:27 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 275
+[25-Jul-2020 08:08:27 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 293
+[25-Jul-2020 08:08:27 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 312
+[26-Jul-2020 23:29:18 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/auth.php on line 56
+[27-Jul-2020 09:13:45 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/satukode/public_html/backend/header.php on line 91
+[27-Jul-2020 09:13:49 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/auth.php on line 56
+[28-Jul-2020 01:47:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/satukode/public_html/backend/header.php on line 91
+[28-Jul-2020 01:47:49 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 139
+[28-Jul-2020 01:47:49 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 168
+[28-Jul-2020 01:47:49 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 275
+[28-Jul-2020 01:47:49 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 293
+[28-Jul-2020 01:47:49 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 312
+[28-Jul-2020 01:49:53 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/auth.php on line 56
+[28-Jul-2020 01:51:36 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 139
+[28-Jul-2020 01:51:36 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 168
+[28-Jul-2020 01:51:36 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 275
+[28-Jul-2020 01:51:36 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 293
+[28-Jul-2020 01:51:36 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 312
+[28-Jul-2020 02:56:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/satukode/public_html/backend/header.php on line 91
+[28-Jul-2020 02:56:47 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/auth.php on line 56
+[28-Jul-2020 02:59:40 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/auth.php on line 56
+[28-Jul-2020 03:11:04 UTC] PHP Notice:  Undefined index: help_id in /home/satukode/public_html/backend/help-edit.php on line 8
+[28-Jul-2020 03:16:09 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 139
+[28-Jul-2020 03:16:09 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 168
+[28-Jul-2020 03:16:09 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 275
+[28-Jul-2020 03:16:09 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 293
+[28-Jul-2020 03:16:09 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 312
+[28-Jul-2020 03:16:46 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 139
+[28-Jul-2020 03:16:46 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 168
+[28-Jul-2020 03:16:46 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 275
+[28-Jul-2020 03:16:46 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 293
+[28-Jul-2020 03:16:46 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 312
+[28-Jul-2020 03:17:37 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 139
+[28-Jul-2020 03:17:37 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 168
+[28-Jul-2020 03:17:37 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 275
+[28-Jul-2020 03:17:37 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 293
+[28-Jul-2020 03:17:37 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 312
+[28-Jul-2020 03:17:50 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 139
+[28-Jul-2020 03:17:50 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 168
+[28-Jul-2020 03:17:50 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 275
+[28-Jul-2020 03:17:50 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 293
+[28-Jul-2020 03:17:50 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 312
+[28-Jul-2020 03:22:06 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 139
+[28-Jul-2020 03:22:06 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 168
+[28-Jul-2020 03:22:06 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 275
+[28-Jul-2020 03:22:06 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 293
+[28-Jul-2020 03:22:06 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 312
+[28-Jul-2020 03:22:49 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 139
+[28-Jul-2020 03:22:49 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 168
+[28-Jul-2020 03:22:49 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 275
+[28-Jul-2020 03:22:49 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 293
+[28-Jul-2020 03:22:49 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 312
+[28-Jul-2020 03:25:38 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 139
+[28-Jul-2020 03:25:38 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 168
+[28-Jul-2020 03:25:38 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 275
+[28-Jul-2020 03:25:38 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 293
+[28-Jul-2020 03:25:38 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 312
+[28-Jul-2020 03:25:39 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 139
+[28-Jul-2020 03:25:39 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 168
+[28-Jul-2020 03:25:39 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 275
+[28-Jul-2020 03:25:39 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 293
+[28-Jul-2020 03:25:39 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 312
+[28-Jul-2020 03:25:52 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 139
+[28-Jul-2020 03:25:52 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 168
+[28-Jul-2020 03:25:52 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 275
+[28-Jul-2020 03:25:52 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 293
+[28-Jul-2020 03:25:52 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 312
+[28-Jul-2020 03:29:28 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 139
+[28-Jul-2020 03:29:28 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 168
+[28-Jul-2020 03:29:28 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 275
+[28-Jul-2020 03:29:28 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 293
+[28-Jul-2020 03:29:28 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 312
+[28-Jul-2020 03:30:41 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 293
+[28-Jul-2020 03:30:41 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 312
+[28-Jul-2020 03:31:24 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 293
+[28-Jul-2020 03:31:24 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 312
+[28-Jul-2020 03:33:30 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 293
+[28-Jul-2020 03:33:30 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 312
+[28-Jul-2020 03:33:39 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 293
+[28-Jul-2020 03:33:39 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 312
+[28-Jul-2020 03:44:18 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 293
+[28-Jul-2020 03:44:18 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 312
+[28-Jul-2020 03:44:34 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 293
+[28-Jul-2020 03:44:34 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 312
+[28-Jul-2020 03:45:05 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 293
+[28-Jul-2020 03:45:05 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 312
+[28-Jul-2020 03:45:38 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 287
+[28-Jul-2020 03:45:38 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 306
+[28-Jul-2020 03:47:27 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 287
+[28-Jul-2020 03:47:27 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 306
+[28-Jul-2020 03:47:28 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 287
+[28-Jul-2020 03:47:28 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 306
+[28-Jul-2020 03:47:35 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 287
+[28-Jul-2020 03:47:35 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 306
+[28-Jul-2020 03:47:47 UTC] PHP Notice:  Undefined variable: product_id in /home/satukode/public_html/backend/inventory-stock-edit.php on line 26
+[28-Jul-2020 03:47:47 UTC] PHP Notice:  Undefined variable: warehouse_id in /home/satukode/public_html/backend/inventory-stock-edit.php on line 26
+[28-Jul-2020 03:47:47 UTC] PHP Notice:  Undefined variable: rack_id in /home/satukode/public_html/backend/inventory-stock-edit.php on line 26
+[28-Jul-2020 03:47:47 UTC] PHP Notice:  Undefined variable: qty_reject in /home/satukode/public_html/backend/inventory-stock-edit.php on line 26
+[28-Jul-2020 03:47:47 UTC] PHP Notice:  Undefined variable: qty_treshold in /home/satukode/public_html/backend/inventory-stock-edit.php on line 26
+[28-Jul-2020 03:47:48 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 287
+[28-Jul-2020 03:47:48 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 306
+[28-Jul-2020 03:47:58 UTC] PHP Notice:  Undefined variable: product_id in /home/satukode/public_html/backend/inventory-stock-edit.php on line 26
+[28-Jul-2020 03:47:58 UTC] PHP Notice:  Undefined variable: warehouse_id in /home/satukode/public_html/backend/inventory-stock-edit.php on line 26
+[28-Jul-2020 03:47:58 UTC] PHP Notice:  Undefined variable: rack_id in /home/satukode/public_html/backend/inventory-stock-edit.php on line 26
+[28-Jul-2020 03:47:58 UTC] PHP Notice:  Undefined variable: qty_reject in /home/satukode/public_html/backend/inventory-stock-edit.php on line 26
+[28-Jul-2020 03:47:58 UTC] PHP Notice:  Undefined variable: qty_treshold in /home/satukode/public_html/backend/inventory-stock-edit.php on line 26
+[28-Jul-2020 03:47:59 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 287
+[28-Jul-2020 03:47:59 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 306
+[28-Jul-2020 10:57:08 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home/satukode/public_html/backend/inventory-stock-edit.php on line 23
+[28-Jul-2020 04:04:54 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 308
+[28-Jul-2020 04:04:54 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 327
+[28-Jul-2020 04:04:55 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 308
+[28-Jul-2020 04:04:55 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 327
+[28-Jul-2020 04:04:57 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 308
+[28-Jul-2020 04:04:57 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 327
+[28-Jul-2020 04:05:21 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 308
+[28-Jul-2020 04:05:21 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 327
+[28-Jul-2020 04:21:47 UTC] PHP Notice:  Undefined variable: qty_reject in /home/satukode/public_html/backend/inventory-stock-add.php on line 34
+[28-Jul-2020 04:21:49 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 308
+[28-Jul-2020 04:21:49 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 327
+[28-Jul-2020 04:22:20 UTC] PHP Notice:  Undefined variable: qty_reject in /home/satukode/public_html/backend/inventory-stock-edit.php on line 32
+[28-Jul-2020 04:22:21 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 308
+[28-Jul-2020 04:22:21 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 327
+[28-Jul-2020 04:23:18 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 308
+[28-Jul-2020 04:23:18 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 327
+[28-Jul-2020 04:23:29 UTC] PHP Notice:  Undefined variable: qty_reject in /home/satukode/public_html/backend/inventory-stock-edit.php on line 32
+[28-Jul-2020 04:23:30 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 308
+[28-Jul-2020 04:23:30 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 327
+[28-Jul-2020 04:24:04 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 308
+[28-Jul-2020 04:24:04 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 327
+[28-Jul-2020 04:24:08 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 308
+[28-Jul-2020 04:24:08 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 327
+[28-Jul-2020 04:24:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 139
+[28-Jul-2020 04:24:43 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 168
+[28-Jul-2020 04:24:43 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 290
+[28-Jul-2020 04:24:43 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 308
+[28-Jul-2020 04:24:43 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 327
+[28-Jul-2020 04:24:44 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 139
+[28-Jul-2020 04:24:44 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 168
+[28-Jul-2020 04:24:44 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 290
+[28-Jul-2020 04:24:44 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 308
+[28-Jul-2020 04:24:44 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 327
+[28-Jul-2020 04:24:58 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 308
+[28-Jul-2020 04:24:58 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 327
+[28-Jul-2020 04:25:06 UTC] PHP Notice:  Undefined variable: qty_reject in /home/satukode/public_html/backend/inventory-stock-edit.php on line 32
+[28-Jul-2020 04:25:08 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 308
+[28-Jul-2020 04:25:08 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 327
+[28-Jul-2020 04:26:03 UTC] PHP Notice:  Undefined variable: qty_reject in /home/satukode/public_html/backend/inventory-stock-edit.php on line 32
+[28-Jul-2020 04:26:05 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 308
+[28-Jul-2020 04:26:05 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 327
+[28-Jul-2020 04:27:55 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 308
+[28-Jul-2020 04:27:55 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 327
+[28-Jul-2020 04:28:04 UTC] PHP Notice:  Undefined variable: qty_reject in /home/satukode/public_html/backend/inventory-stock-edit.php on line 32
+[28-Jul-2020 04:28:05 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 308
+[28-Jul-2020 04:28:05 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 327
+[28-Jul-2020 04:29:49 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 308
+[28-Jul-2020 04:29:49 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 327
+[28-Jul-2020 04:30:03 UTC] PHP Notice:  Undefined variable: qty_reject in /home/satukode/public_html/backend/inventory-stock-add.php on line 34
+[28-Jul-2020 04:30:05 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 308
+[28-Jul-2020 04:30:05 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 327
+[28-Jul-2020 04:30:35 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 308
+[28-Jul-2020 04:30:35 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 327
+[28-Jul-2020 04:31:20 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 308
+[28-Jul-2020 04:31:20 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 327
+[28-Jul-2020 04:31:49 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 308
+[28-Jul-2020 04:31:49 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 327
+[28-Jul-2020 04:38:33 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 308
+[28-Jul-2020 04:38:33 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 327
+[28-Jul-2020 04:38:43 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 308
+[28-Jul-2020 04:38:43 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 327
+[28-Jul-2020 04:38:54 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 308
+[28-Jul-2020 04:38:54 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 327
+[28-Jul-2020 04:40:22 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 266
+[28-Jul-2020 04:40:22 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 285
+[28-Jul-2020 04:40:24 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 266
+[28-Jul-2020 04:40:24 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 285
+[28-Jul-2020 05:47:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/satukode/public_html/backend/header.php on line 91
+[28-Jul-2020 05:47:24 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 266
+[28-Jul-2020 05:47:24 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 285
+[28-Jul-2020 05:47:28 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/auth.php on line 56
+[28-Jul-2020 05:47:33 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 266
+[28-Jul-2020 05:47:33 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 285
+[28-Jul-2020 05:47:35 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock-log.php on line 131
+[28-Jul-2020 05:47:35 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock-log.php on line 160
+[28-Jul-2020 05:47:35 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock-log.php on line 240
+[28-Jul-2020 05:47:35 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock-log.php on line 258
+[28-Jul-2020 05:47:35 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock-log.php on line 277
+[28-Jul-2020 05:48:14 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock-log.php on line 132
+[28-Jul-2020 05:48:14 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock-log.php on line 154
+[28-Jul-2020 05:48:14 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock-log.php on line 234
+[28-Jul-2020 05:48:14 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock-log.php on line 252
+[28-Jul-2020 05:48:14 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock-log.php on line 271
+[28-Jul-2020 05:48:19 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 266
+[28-Jul-2020 05:48:19 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 285
+[28-Jul-2020 05:48:57 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 266
+[28-Jul-2020 05:48:57 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 285
+[28-Jul-2020 05:48:59 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock-log.php on line 101
+[28-Jul-2020 05:48:59 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock-log.php on line 123
+[28-Jul-2020 05:48:59 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock-log.php on line 203
+[28-Jul-2020 05:48:59 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock-log.php on line 221
+[28-Jul-2020 05:48:59 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock-log.php on line 240
+[28-Jul-2020 05:50:08 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock-log.php on line 221
+[28-Jul-2020 05:50:08 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock-log.php on line 240
+[28-Jul-2020 05:52:41 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock-log.php on line 153
+[28-Jul-2020 05:52:41 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock-log.php on line 172
+[28-Jul-2020 05:53:08 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 266
+[28-Jul-2020 05:53:08 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 285
+[28-Jul-2020 05:53:21 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 266
+[28-Jul-2020 05:53:21 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 285
+[28-Jul-2020 05:53:23 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock-log.php on line 153
+[28-Jul-2020 05:53:23 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock-log.php on line 172
+[28-Jul-2020 05:54:37 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock-log.php on line 153
+[28-Jul-2020 05:54:37 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock-log.php on line 172
+[28-Jul-2020 05:54:56 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock-log.php on line 153
+[28-Jul-2020 05:54:56 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock-log.php on line 172
+[28-Jul-2020 05:56:07 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock-log.php on line 153
+[28-Jul-2020 05:56:07 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock-log.php on line 172
+[28-Jul-2020 05:56:10 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock-log.php on line 152
+[28-Jul-2020 05:56:10 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock-log.php on line 171
+[28-Jul-2020 05:56:36 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock-log.php on line 152
+[28-Jul-2020 05:56:36 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock-log.php on line 171
+[28-Jul-2020 05:56:50 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock-log.php on line 152
+[28-Jul-2020 05:56:50 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock-log.php on line 171
+[28-Jul-2020 06:04:01 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 266
+[28-Jul-2020 06:04:01 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 285
+[28-Jul-2020 06:04:14 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 266
+[28-Jul-2020 06:04:14 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 285
+[28-Jul-2020 06:07:05 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 266
+[28-Jul-2020 06:07:05 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 285
+[28-Jul-2020 06:07:06 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 266
+[28-Jul-2020 06:07:06 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 285
+[28-Jul-2020 06:08:11 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 266
+[28-Jul-2020 06:08:11 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 285
+[28-Jul-2020 06:08:12 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 266
+[28-Jul-2020 06:08:12 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 285
+[28-Jul-2020 06:08:37 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 266
+[28-Jul-2020 06:08:37 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 285
+[28-Jul-2020 06:10:17 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 266
+[28-Jul-2020 06:10:17 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 285
+[28-Jul-2020 06:23:13 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 266
+[28-Jul-2020 06:23:13 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 285
+[28-Jul-2020 06:25:29 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 266
+[28-Jul-2020 06:25:29 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 285
+[28-Jul-2020 09:25:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/satukode/public_html/backend/header.php on line 91
+[28-Jul-2020 09:26:03 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/auth.php on line 56
+[29-Jul-2020 06:22:59 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/auth.php on line 56
+[29-Jul-2020 06:23:02 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/auth.php on line 56
+[29-Jul-2020 06:24:20 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 266
+[29-Jul-2020 06:24:20 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 285
+[29-Jul-2020 06:26:45 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 266
+[29-Jul-2020 06:26:45 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 285
+[29-Jul-2020 06:27:47 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock-log.php on line 152
+[29-Jul-2020 06:27:47 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock-log.php on line 171
+[29-Jul-2020 08:23:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/satukode/public_html/backend/header.php on line 91
+[29-Jul-2020 08:23:41 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/auth.php on line 56
+[29-Jul-2020 08:43:41 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/auth.php on line 56
+[29-Jul-2020 08:43:54 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 266
+[29-Jul-2020 08:43:54 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 285
+[29-Jul-2020 08:46:22 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 266
+[29-Jul-2020 08:46:22 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 285
+[29-Jul-2020 08:47:26 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 266
+[29-Jul-2020 08:47:26 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 285
+[29-Jul-2020 08:48:10 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 266
+[29-Jul-2020 08:48:10 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 285
+[29-Jul-2020 08:48:31 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 266
+[29-Jul-2020 08:48:31 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 285
+[30-Jul-2020 09:43:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/satukode/public_html/backend/header.php on line 91
+[30-Jul-2020 09:44:06 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/auth.php on line 56
+[30-Jul-2020 10:10:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/satukode/public_html/backend/header.php on line 91
+[30-Jul-2020 10:10:54 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/auth.php on line 56
+[30-Jul-2020 10:15:36 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/report.php on line 8
+[30-Jul-2020 10:15:36 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/report.php on line 13
+[30-Jul-2020 10:15:36 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/report.php on line 18
+[30-Jul-2020 10:15:36 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/report.php on line 23
+[30-Jul-2020 10:15:59 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/report.php on line 13
+[30-Jul-2020 10:15:59 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/report.php on line 18
+[30-Jul-2020 10:17:26 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/report.php on line 13
+[30-Jul-2020 10:17:26 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/report.php on line 18
+[30-Jul-2020 10:17:49 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/report.php on line 13
+[30-Jul-2020 10:17:49 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/report.php on line 18
+[30-Jul-2020 10:21:04 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/report.php on line 13
+[30-Jul-2020 10:21:04 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/report.php on line 18
+[30-Jul-2020 10:21:30 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/report.php on line 13
+[30-Jul-2020 10:21:30 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/report.php on line 18
+[30-Jul-2020 10:21:41 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/report.php on line 13
+[30-Jul-2020 10:21:41 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/report.php on line 18
+[30-Jul-2020 10:22:05 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/report.php on line 13
+[30-Jul-2020 10:22:05 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/report.php on line 18
+[30-Jul-2020 10:27:01 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/report.php on line 13
+[30-Jul-2020 10:27:01 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/report.php on line 18
+[30-Jul-2020 10:27:51 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/report.php on line 13
+[30-Jul-2020 10:27:51 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/report.php on line 18
+[30-Jul-2020 10:32:09 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/report.php on line 13
+[30-Jul-2020 10:32:09 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/report.php on line 18
+[30-Jul-2020 10:32:09 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/report.php on line 99
+[30-Jul-2020 10:32:31 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/report.php on line 13
+[30-Jul-2020 10:32:31 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/report.php on line 18
+[30-Jul-2020 10:32:31 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/report.php on line 99
+[30-Jul-2020 10:32:48 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/report.php on line 13
+[30-Jul-2020 10:32:48 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/report.php on line 18
+[30-Jul-2020 10:32:48 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/report.php on line 100
+[30-Jul-2020 10:33:23 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/report.php on line 13
+[30-Jul-2020 10:34:17 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/report.php on line 13
+[30-Jul-2020 10:34:17 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/report.php on line 100
+[30-Jul-2020 10:36:29 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/report.php on line 13
+[30-Jul-2020 10:36:29 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/report.php on line 134
+[30-Jul-2020 10:36:55 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/report.php on line 13
+[30-Jul-2020 10:36:55 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/report.php on line 134
+[30-Jul-2020 10:38:55 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/report.php on line 13
+[30-Jul-2020 10:39:12 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/report.php on line 13
+[30-Jul-2020 10:39:46 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/report.php on line 13
+[30-Jul-2020 10:40:07 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/report.php on line 13
+[30-Jul-2020 10:40:26 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/report.php on line 13
+[30-Jul-2020 10:40:27 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/report.php on line 13
+[30-Jul-2020 10:40:50 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/report.php on line 13
+[30-Jul-2020 17:43:39 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/satukode/public_html/backend/report.php on line 185
+[30-Jul-2020 10:44:27 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/report.php on line 13
+[30-Jul-2020 10:45:19 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/report.php on line 13
+[30-Jul-2020 17:53:51 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/satukode/public_html/backend/report.php on line 162
+[30-Jul-2020 17:54:19 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/satukode/public_html/backend/report.php on line 162
+[30-Jul-2020 10:54:25 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/report.php on line 13
+[31-Jul-2020 03:18:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/satukode/public_html/backend/header.php on line 91
+[31-Jul-2020 03:18:10 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/report.php on line 13
+[31-Jul-2020 03:18:14 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/auth.php on line 56
+[31-Jul-2020 03:18:18 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/report.php on line 13
+[31-Jul-2020 03:18:33 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/report.php on line 13
+[31-Jul-2020 03:18:39 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/report.php on line 13
+[04-Aug-2020 03:33:58 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/auth.php on line 56
+[04-Aug-2020 03:34:08 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 266
+[04-Aug-2020 03:34:08 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 285
+[04-Aug-2020 04:26:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/satukode/public_html/backend/header.php on line 91
+[04-Aug-2020 04:26:10 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/report.php on line 13
+[04-Aug-2020 04:55:45 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/satukode/public_html/backend/header.php on line 91
+[04-Aug-2020 04:55:45 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 266
+[04-Aug-2020 04:55:45 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 285
+[05-Aug-2020 10:45:14 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/auth.php on line 56
+[05-Aug-2020 10:45:22 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 266
+[05-Aug-2020 10:45:22 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 285
+[11-Aug-2020 12:50:15 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/auth.php on line 56
+[11-Aug-2020 12:50:25 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 266
+[11-Aug-2020 12:50:25 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 285
+[12-Aug-2020 13:09:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/satukode/public_html/backend/header.php on line 91
+[12-Aug-2020 13:09:21 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 266
+[12-Aug-2020 13:09:21 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 285
+[12-Aug-2020 13:09:31 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/auth.php on line 56
+[12-Aug-2020 13:09:42 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 266
+[12-Aug-2020 13:09:42 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 285
+[18-Aug-2020 01:58:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/satukode/public_html/backend/header.php on line 91
+[18-Aug-2020 01:58:12 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/satukode/public_html/backend/inventory-stock.php on line 266
+[18-Aug-2020 01:58:12 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, bool given in /home/satukode/public_html/backend/inventory-stock.php on line 285
+[24-Aug-2020 12:38:41 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/auth.php on line 56
+[24-Aug-2020 12:38:52 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 266
+[24-Aug-2020 12:38:52 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 285
+[11-Sep-2020 01:24:13 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/auth.php on line 56
+[11-Sep-2020 01:24:24 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 266
+[11-Sep-2020 01:24:24 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/inventory-stock.php on line 285

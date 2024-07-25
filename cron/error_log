@@ -1,0 +1,17 @@
+[08-Jul-2020 09:43:29 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$h' (T_VARIABLE) in /home/satukode/public_html/backend/cron/cron-order-weekly.php on line 6
+[08-Jul-2020 09:44:54 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$h' (T_VARIABLE) in /home/satukode/public_html/backend/cron/cron-order-weekly.php on line 7
+[08-Jul-2020 09:45:33 Asia/Jakarta] PHP Warning:  require_once(/home/satukode/public_html/backend/cron/../config.php): failed to open stream: No such file or directory in /home/satukode/public_html/backend/cron/cron-order-weekly.php on line 4
+[08-Jul-2020 09:45:33 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '/home/satukode/public_html/backend/cron/../config.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/satukode/public_html/backend/cron/cron-order-weekly.php on line 4
+[17-Jul-2020 19:07:50 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/satukode/public_html/backend/cron/cron-order-weekly.php on line 46
+[17-Jul-2020 12:10:25 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/cron/cron-order-weekly.php on line 15
+[17-Jul-2020 12:14:41 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/cron/cron-order-weekly.php on line 33
+[17-Jul-2020 12:14:41 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/cron/cron-order-weekly.php on line 33
+[17-Jul-2020 12:14:41 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/cron/cron-order-weekly.php on line 33
+[17-Jul-2020 12:14:41 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/cron/cron-order-weekly.php on line 33
+[17-Jul-2020 12:14:41 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/satukode/public_html/backend/cron/cron-order-weekly.php on line 33
+[17-Jul-2020 19:26:48 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/satukode/public_html/backend/cron/cron-order-weekly.php on line 80
+[17-Jul-2020 19:28:10 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/satukode/public_html/backend/cron/cron-order-weekly.php on line 81
+[17-Jul-2020 19:28:16 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/satukode/public_html/backend/cron/cron-order-weekly.php on line 81
+[17-Jul-2020 19:28:23 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/satukode/public_html/backend/cron/cron-order-weekly.php on line 82
+[17-Jul-2020 19:30:53 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/satukode/public_html/backend/cron/cron-order-weekly.php on line 81
+[17-Jul-2020 19:30:54 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/satukode/public_html/backend/cron/cron-order-weekly.php on line 81
